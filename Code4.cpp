@@ -38,10 +38,3 @@ return 0;
 
 
 
-
-
-
-PS C:\Users\TITU> g++ sub.cpp -o sub
-PS C:\Users\TITU> ./sub
-c=1
-PS C:\Users\TITU>
